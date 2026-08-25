@@ -152,10 +152,11 @@ python scripts/get_vendor_summary.py
 - Improve marketing for underperforming vendors
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+## 👤 Author & Contact
 
-**Sayan Manna**
+**Sayan Manna**  
 Data Analyst
-📧 Email: sayanmanna6397@gmail.com
-in [LinkdIn](https://www.linkedin.com/in/sayanmanna575/)
-🔗 [Portfolio](https://sayanmanna.me/)
+
+📧 **Email:** [sayanmanna6397@gmail.com](mailto:sayanmanna6397@gmail.com)  
+🔗 **LinkedIn:** [sayanmanna575](https://www.linkedin.com/in/sayanmanna575/)  
+🌐 **Portfolio:** [sayanmanna.me](https://sayanmanna.me/)
